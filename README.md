@@ -1,21 +1,18 @@
-### Hi there 👋
-
-I'm a data scientist with a passion for technology.
-
-I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium.
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CParivesh&show_icons=true&theme=radical)
-
 ### Hi there 👋, My Name is Parivesh
 #### Data Scientist with passion for technology
 ![Data Scientist with passion for technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
 
-Skills: Data Collection and Storage: MySQL and PostgreSQL.  Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.  Development: Python, Git and Clean Code.  Data Visualization: Seaborn and Matplotlib.  Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.  Machine Learning Deployment: Flask and Docker.
+Skills: 
+**Data Collection and Storage**: MySQL and PostgreSQL.  
+**Data Processing and Analytics**: Jupyter Notebook, Pandas, Numpy.  
+**Development**: Python  
+**Data Visualization**: Seaborn, Matplotlib, PowerBI, Tableau.  
+**Machine Learning Modeling**: Classification, Regression, Clusterization, Time Series and Neural Network. 
+**Machine Learning Deployment**: Flask and Docker.
 
-- 🔭 I’m currently working on this page. 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CParivesh&show_icons=true&theme=radical)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CParivesh/CParivesh)  
