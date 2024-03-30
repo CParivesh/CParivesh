@@ -4,7 +4,8 @@
 
 I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
 
-Skills: 
+**Analytical Tools:** 
+
 **Data Collection and Storage**: MySQL and PostgreSQL.  
 **Data Processing and Analytics**: Jupyter Notebook, Pandas, Numpy.  
 **Development**: Python  
