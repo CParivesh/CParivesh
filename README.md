@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Parivesh
 #### Data Scientist with passion for technology
-![Data Scientist with passion for technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+(https://github.com/CParivesh/CParivesh/blob/main/Black%20and%20White%20Bold%20Trade%20and%20Investments%20Youtube%20Banner.jpg)
 
 I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
 
