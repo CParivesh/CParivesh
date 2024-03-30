@@ -5,6 +5,8 @@ I'm a data scientist with a passion for technology.
 I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CParivesh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 For more details about my projects and each solution, they are described in the data science project section.
 <!--
 **CParivesh/CParivesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
