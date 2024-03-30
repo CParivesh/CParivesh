@@ -7,6 +7,27 @@ I currently develop projects that prioritize solving business problems, from und
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CParivesh&show_icons=true&theme=radical)
 
+### Hi there 👋, My Name is Parivesh
+#### Data Scientist with passion for technology
+![Data Scientist with passion for technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
+
+Skills: Data Collection and Storage: MySQL and PostgreSQL.  Data Processing and Analytics: Jupyter Notebook, Pandas, Numpy.  Development: Python, Git and Clean Code.  Data Visualization: Seaborn and Matplotlib.  Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network.  Machine Learning Deployment: Flask and Docker.
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CParivesh/CParivesh)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/CParivesh/CParivesh)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/CParivesh/CParivesh/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/CParivesh/CParivesh)  
+
 
 For more details about my projects and each solution, they are described in the data science project section.
 <!--
