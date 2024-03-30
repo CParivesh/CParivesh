@@ -22,13 +22,5 @@ I currently develop projects that prioritize solving business problems, from und
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/CParivesh/CParivesh)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/CParivesh/CParivesh/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/CParivesh/CParivesh)  
-
-
-
 
 
