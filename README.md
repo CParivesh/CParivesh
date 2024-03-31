@@ -29,6 +29,7 @@ I develop projects that prioritize solving business problems, from understanding
 
 
 
+
 **Analytical Tools:** 
 
 **Data Collection and Storage**: MySQL, MongoDB
