@@ -4,6 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/cparivesh" target="blank"><img src="https://img.shields.io/twitter/follow/cparivesh?logo=twitter&style=for-the-badge" alt="cparivesh" /></a> </p>
 
+I develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
+
+
 - 🔭 I’m currently working on **Risk modelling**
 
 - 🌱 I’m currently learning **Financial mathematics**
@@ -24,7 +27,7 @@
 
 
 
-I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
+I develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on Medium
 
 **Analytical Tools:** 
 
