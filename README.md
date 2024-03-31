@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Parivesh</h1>
 <h3 align="center">Data Scientist with passion for technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,7 +30,8 @@ I develop projects that prioritize solving business problems, from understanding
 
 **Analytical Tools:** 
 
-**Data Collection and Storage**: MySQL and PostgreSQL.  
+**Data Collection and Storage**: 
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a   
 
 **Data Processing and Analytics**: Jupyter Notebook, Pandas, Numpy.
 
