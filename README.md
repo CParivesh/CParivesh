@@ -28,7 +28,8 @@ I develop projects that prioritize solving business problems, from understanding
 
 
 
-<h3 **Analytical Tools:** </h3>
+
+**Analytical Tools:** 
 
 **Data Collection and Storage**: MySQL and PostgreSQL.  
 
