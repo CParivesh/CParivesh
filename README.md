@@ -8,8 +8,6 @@ I develop projects that prioritize solving business problems, from understanding
 
 - 🔭 I’m currently working on **Risk modelling**
 
-- 🌱 I’m currently learning **Financial mathematics**
-
 - 📝 I regularly write articles on [Markets/Investments/Finance](Markets/Investments/Finance)
 
 - 📫 How to reach me **chparivesh@outlook.com**
@@ -44,6 +42,9 @@ I develop projects that prioritize solving business problems, from understanding
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
+## Data Science Projects
 
+### Stock Prediction Algorithms
+This repository showcases two distinct stock prediction algorithms: a Stacked Long Short-Term Memory (LSTM) model and a comparison between Support Vector Regression (SVR) and Linear Regression. These algorithms are designed to analyze historical stock data and forecast future price movements. By implementing and evaluating these models, investors and traders can gain insights into potential market trends and make more informed decisions regarding their investment strategies.
 
 
