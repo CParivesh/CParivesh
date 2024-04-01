@@ -44,7 +44,7 @@ I develop projects that prioritize solving business problems, from understanding
 
 ## Data Science Projects
 
-<a href="[https://github.com/your_username/stock_prediction_algorithms](https://github.com/CParivesh/Stock-prediction.git)"> ** Stock Prediction Algorithms ** </a>
+### <a href="(https://github.com/CParivesh/Stock-prediction.git)"> Stock Prediction Algorithms  </a>
 This repository showcases two distinct stock prediction algorithms: a Stacked Long Short-Term Memory (LSTM) model and a comparison between Support Vector Regression (SVR) and Linear Regression. These algorithms are designed to analyze historical stock data and forecast future price movements. By implementing and evaluating these models, investors and traders can gain insights into potential market trends and make more informed decisions regarding their investment strategies.
 
 
