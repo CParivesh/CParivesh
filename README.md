@@ -51,3 +51,7 @@ This repository showcases two distinct stock prediction algorithms: a Stacked Lo
 ### <a href='https://github.com/CParivesh/Portfolio-Management.git'> Portfolio Optimisation </a>
 
 This GitHub repository provides Python scripts for visualizing and optimizing investment portfolios. With features like portfolio composition visualization, performance metric calculation, and efficient frontier optimization based on Modern Portfolio Theory (MPT), users can analyze and enhance their portfolios' performance. Getting started is straightforward: clone the repository, install dependencies, and utilize the scripts for portfolio insights and optimization tasks. Contributions are welcome
+
+### <a href='https://github.com/CParivesh/Transaction-Fraud-Detection.git'> Transaction Fraud Detection </a>
+
+Financial transactions fraud is one of the biggest problems faced by financial institutions. Thus, this project uses data science and machine learning to detect and avoid fraudulent transactions. The model got a precision of 96.3% +/- 0.7% and a recall of 76.3% +/- 3.5%. The profit expected by the company is R$ 57,251,574.44.
