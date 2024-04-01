@@ -48,4 +48,6 @@ I develop projects that prioritize solving business problems, from understanding
 
 This repository showcases two distinct stock prediction algorithms: a Stacked Long Short-Term Memory (LSTM) model and a comparison between Support Vector Regression (SVR) and Linear Regression. These algorithms are designed to analyze historical stock data and forecast future price movements. By implementing and evaluating these models, investors and traders can gain insights into potential market trends and make more informed decisions regarding their investment strategies.
 
+### <a href='https://github.com/CParivesh/Portfolio-Management.git'> Portfolio Optimisation </a>
 
+This GitHub repository provides Python scripts for visualizing and optimizing investment portfolios. With features like portfolio composition visualization, performance metric calculation, and efficient frontier optimization based on Modern Portfolio Theory (MPT), users can analyze and enhance their portfolios' performance. Getting started is straightforward: clone the repository, install dependencies, and utilize the scripts for portfolio insights and optimization tasks. Contributions are welcome
